@@ -84,7 +84,7 @@ form > div.campo {
  }
  
  .campo i {
-    position: absolute;
+    
     right: 20px;
     font-size: 20px;
     margin-top: 10px;
@@ -93,12 +93,13 @@ form > div.campo {
  div.campo > input {
     background-color: #24532e;
     font-size: 1em;
-    width: 89%;
+    width: 90%;
     height: 100%;
     border: #1d3d24;
     outline: none;
     border-radius: 10px;
     padding: 5px;
+    transform: translateY(-4px);
  }
  
  form > input[type=submit] {
