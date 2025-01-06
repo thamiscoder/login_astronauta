@@ -70,8 +70,8 @@ p {
 }
 
 form > div.campo {
-    background-color: #1d3d24;
-    border: 2px solid #1d3d24;
+    background-color: #123154;
+    border: 2px solid #123154;
     display: block;
     width: 100%;
     height: 40px;
@@ -90,7 +90,7 @@ form > div.campo {
 }
  
  div.campo > input {
-    background-color: #24532e;
+    background-color: #1a3b61bf;
     font-size: 1em;
     width: 90%;
     height: 100%;
@@ -114,8 +114,9 @@ form > div.campo {
  }
  
  form > input[type=submit]:hover {
-    background-color: #123154;
+    background-color: #1d3d24b6;
     color: white;
+    border: 1px solid #123154;
  }
  
  form > a.botao {
@@ -134,7 +135,7 @@ form > div.campo {
  }
  
  form > a.botao:hover {
-    background-color: #123154;
+    background-color: #1d3d24c5;
     color: white;
  }
  
